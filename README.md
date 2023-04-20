@@ -1,6 +1,6 @@
 # Windows-activation key
 Create a text file
-Open the file you created
+Open the file you have created
 Copy and paste the key
 save as .bat
 run as administrator
