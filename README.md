@@ -1,4 +1,4 @@
-# Windows-activation
+# Windows-activation key
 Create a text file
 Open the file created
 Copy and paste the key
