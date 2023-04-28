@@ -1,6 +1,6 @@
 # Windows-activation key
 Turn off anti-virus before opening the file.
-Create a text file
+Create a text file.
 Open the file you have created.
 Copy and paste the key.
 save with extension .bat
