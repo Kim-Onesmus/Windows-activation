@@ -1,4 +1,4 @@
-# Windows-activation key
+# Windows-activation key.
 Turn off anti-virus before opening the file.
 Create a text file.
 Open the file you have created.
