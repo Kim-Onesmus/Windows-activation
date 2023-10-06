@@ -5,5 +5,5 @@ Open the file you have created.
 Copy and paste the key.
 save with extension .bat
 run as administrator
-<p>Only works for <a href="">Wondows 10 21H2</a></p>
+<p>Only works for <a href="">Windows 10 21H2</a></p>
 Restart your computer after activation.
